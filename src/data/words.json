@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "word": "serendipity",
+    "translation": "tasodifiy baxt, omad",
+    "transcription": "/ˌserənˈdɪpəti/",
+    "example": "Finding this job was pure serendipity.",
+    "exampleTranslation": "Bu ishni topish — sof tasodifiy omad edi.",
+    "difficulty": "medium",
+    "category": "emotion"
+  },
+  {
+    "id": 2,
+    "word": "resilient",
+    "translation": "bardoshli, chidamli",
+    "transcription": "/rɪˈzɪliənt/",
+    "example": "She is a very resilient person.",
+    "exampleTranslation": "U juda bardoshli odam.",
+    "difficulty": "medium",
+    "category": "personality"
+  },
+  {
+    "id": 3,
+    "word": "ephemeral",
+    "translation": "o‘tkinchi, qisqa muddatli",
+    "transcription": "/ɪˈfemərəl/",
+    "example": "Fame is often ephemeral.",
+    "exampleTranslation": "Shuhrat ko‘pincha o‘tkinchi bo‘ladi.",
+    "difficulty": "hard",
+    "category": "time"
+  },
+  {
+    "id": 4,
+    "word": "meticulous",
+    "translation": "sinchkov, puxta",
+    "transcription": "/məˈtɪkjələs/",
+    "example": "He is very meticulous in his work.",
+    "exampleTranslation": "U o‘z ishida juda sinchkov.",
+    "difficulty": "medium",
+    "category": "personality"
+  },
+  {
+    "id": 5,
+    "word": "nostalgia",
+    "translation": "o‘tgan kunlarni sog‘inish",
+    "transcription": "/nɒˈstældʒə/",
+    "example": "Listening to old songs brings nostalgia.",
+    "exampleTranslation": "Eski qo‘shiqlar tinglash nostalgiyni uyg‘otadi.",
+    "difficulty": "easy",
+    "category": "emotion"
+  },
+  {
+    "id": 6,
+    "word": "ubiquitous",
+    "translation": "hamma joyda mavjud",
+    "transcription": "/juːˈbɪkwɪtəs/",
+    "example": "Smartphones are ubiquitous nowadays.",
+    "exampleTranslation": "Smartfonlar hozirgi kunda hamma joyda bor.",
+    "difficulty": "hard",
+    "category": "technology"
+  },
+  {
+    "id": 7,
+    "word": "ambitious",
+    "translation": "shijoatli, maqsadli",
+    "transcription": "/æmˈbɪʃəs/",
+    "example": "She is very ambitious and works hard.",
+    "exampleTranslation": "U juda shijoatli va qattiq ishlaydi.",
+    "difficulty": "medium",
+    "category": "personality"
+  },
+  {
+    "id": 8,
+    "word": "serene",
+    "translation": "tinch, osoyishta",
+    "transcription": "/səˈriːn/",
+    "example": "The lake looked serene at sunrise.",
+    "exampleTranslation": "Ko‘l quyosh chiqishida tinch ko‘rinardi.",
+    "difficulty": "medium",
+    "category": "nature"
+  },
+  {
+    "id": 9,
+    "word": "procrastinate",
+    "translation": "kechiktirish, ertaga qoldirish",
+    "transcription": "/prəʊˈkræstɪneɪt/",
+    "example": "Don't procrastinate on your goals.",
+    "exampleTranslation": "Maqsadlaringni kechiktirma.",
+    "difficulty": "medium",
+    "category": "behavior"
+  },
+  {
+    "id": 10,
+    "word": "eloquent",
+    "translation": "notiq, so‘zamol",
+    "transcription": "/ˈeləkwənt/",
+    "example": "He gave an eloquent speech.",
+    "exampleTranslation": "U notiq nutq so‘zladi.",
+    "difficulty": "hard",
+    "category": "communication"
+  },
+  {
+    "id": 11,
+    "word": "grateful",
+    "translation": "minnatdor",
+    "transcription": "/ˈɡreɪtfəl/",
+    "example": "I am grateful for your help.",
+    "exampleTranslation": "Yordamingiz uchun minnatdorman.",
+    "difficulty": "easy",
+    "category": "emotion"
+  },
+  {
+    "id": 12,
+    "word": "perseverance",
+    "translation": "qat’iyat, bardosh",
+    "transcription": "/ˌpɜːsɪˈvɪərəns/",
+    "example": "Perseverance is the key to success.",
+    "exampleTranslation": "Qat’iyat — muvaffaqiyat kaliti.",
+    "difficulty": "medium",
+    "category": "motivation"
+  },
+  {
+    "id": 13,
+    "word": "busy",
+    "translation": "band, qo'li bo'sh emas",
+    "transcription": "/ˈbɪzi/",
+    "example": "I am very busy today.",
+    "exampleTranslation": "Men bugun juda bandman.",
+    "difficulty": "easy",
+    "category": "daily"
+  },
+  {
+    "id": 14,
+    "word": "tired",
+    "translation": "charchagan",
+    "transcription": "/ˈtaɪərd/",
+    "example": "She feels tired after work.",
+    "exampleTranslation": "U ishdan keyin charchagan his qiladi.",
+    "difficulty": "easy",
+    "category": "daily"
+  },
+  {
+    "id": 15,
+    "word": "hungry",
+    "translation": "och, qorni och",
+    "transcription": "/ˈhʌŋɡri/",
+    "example": "I am hungry, let's eat something.",
+    "exampleTranslation": "Men ochman, biror narsa yeylik.",
+    "difficulty": "easy",
+    "category": "daily"
+  },
+  {
+    "id": 16,
+    "word": "choose",
+    "translation": "tanlash, tanlamoq",
+    "transcription": "/tʃuːz/",
+    "example": "You can choose any dish from the menu.",
+    "exampleTranslation": "Menyudan istalgan taomni tanlashingiz mumkin.",
+    "difficulty": "easy",
+    "category": "daily"
+  },
+  {
+    "id": 17,
+    "word": "forget",
+    "translation": "unutmoq",
+    "transcription": "/fəˈɡet/",
+    "example": "Don't forget to call me.",
+    "exampleTranslation": "Menga qo'ng'iroq qilishni unutma.",
+    "difficulty": "easy",
+    "category": "daily"
+  },
+  {
+    "id": 18,
+    "word": "early",
+    "translation": "erta, oldindan",
+    "transcription": "/ˈɜːrli/",
+    "example": "He wakes up early every morning.",
+    "exampleTranslation": "U har ertalab erta uyg'onadi.",
+    "difficulty": "easy",
+    "category": "daily"
+  },
+  {
+    "id": 19,
+    "word": "spend",
+    "translation": "sarflamoq, o'tkazmoq (vaqt)",
+    "transcription": "/spend/",
+    "example": "We spend weekends with family.",
+    "exampleTranslation": "Biz dam olish kunlarini oila bilan o'tkazamiz.",
+    "difficulty": "easy",
+    "category": "daily"
+  },
+  {
+    "id": 20,
+    "word": "carry",
+    "translation": "ko'tarmoq, olib yurmoq",
+    "transcription": "/ˈkæri/",
+    "example": "Can you carry this bag for me?",
+    "exampleTranslation": "Bu sumkani men uchun ko'tara olasizmi?",
+    "difficulty": "easy",
+    "category": "daily"
+  },
+  {
+    "id": 21,
+    "word": "late",
+    "translation": "kech, kechikkan",
+    "transcription": "/leɪt/",
+    "example": "Sorry, I am late for the meeting.",
+    "exampleTranslation": "Kechirasiz, men uchrashunga kechikdim.",
+    "difficulty": "easy",
+    "category": "daily"
+  },
+  {
+    "id": 22,
+    "word": "clean",
+    "translation": "toza, tozalamoq",
+    "transcription": "/kliːn/",
+    "example": "Please clean your room before guests arrive.",
+    "exampleTranslation": "Mehmonlar kelishidan oldin xonangizni tozalang.",
+    "difficulty": "easy",
+    "category": "daily"
+  }
+]
